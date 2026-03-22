@@ -1,8 +1,8 @@
 # 📊 Data Analytics Internship Portfolio
 
 ## 👩‍💻 About Me
-Hi, I'm **Shreeja Mandaloju**, a B.Tech CSE student and aspiring Data Analyst.  
-This repository showcases my work completed during the **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
+Hi 👋, I'm **Shreeja Mandaloju**, a B.Tech CSE student and aspiring Data Analyst.  
+This repository showcases my work completed during the **Data Analytics Internship** at **ApexPlanet Software Pvt. Ltd.**
 
 ---
 
@@ -95,5 +95,5 @@ This portfolio represents a complete end-to-end data analytics workflow — from
 
 ## 🔗 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/shreeja-mandaloju-40593425b/
-GitHub: https://github.com/ShreejaMandaloju
+- LinkedIn: https://www.linkedin.com/in/shreeja-mandaloju-40593425b/
+- GitHub: https://github.com/ShreejaMandaloju
